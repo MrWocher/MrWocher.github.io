@@ -1,10 +1,11 @@
-## Updated on: 2021-08-27
+## Updated at: 2021-11-17
+google.com, pub-5580537606944457, DIRECT, f08c47fec0942fa0
+
+google.com, pub-4973750815225055, DIRECT, f08c47fec0942fa0
 google.com, pub-8562118329734454, DIRECT, f08c47fec0942fa0
 google.com, pub-2844202291629900, DIRECT, f08c47fec0942fa0
 google.com, pub-1674355862393918, DIRECT, f08c47fec0942fa0
 google.com, pub-2463710803755261, DIRECT, f08c47fec0942fa0
-google.com, pub-8297419798986148, DIRECT, f08c47fec0942fa0
-
 inmobi.com,3deb08346d5445b888cf74bed66e0603,DIRECT,83e75a7ae333ca9d
 inmobi.com,f3924290136e4129a5c082ff982c3a58,RESELLER,83e75a7ae333ca9d
 inmobi.com,22e5354e453f49348325184e25464adb,RESELLER,83e75a7ae333ca9d
@@ -504,7 +505,6 @@ startapp.com, inr, RESELLER
 ucfunnel.com, par-BE7E29B3B48DE66BC7DDDA24E6267E29, RESELLER
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 2169000724, RESELLER
-improvedigital.com, 1366, RESELLER
 algorix.co, 60082, Reseller, 5b394c12fea27a1d
 algorix.co, 60085, Reseller, 5b394c12fea27a1d
 algorix.co, 60086, Reseller, 5b394c12fea27a1d
