@@ -1,6 +1,7 @@
+facebook.com, 595050018712535, RESELLER, c3e20eee3f780d68
+
 ## Updated at: 2021-11-17
 google.com, pub-5580537606944457, DIRECT, f08c47fec0942fa0
-facebook.com, 595050018712535, RESELLER, c3e20eee3f780d68
 
 google.com, pub-4973750815225055, DIRECT, f08c47fec0942fa0
 google.com, pub-8562118329734454, DIRECT, f08c47fec0942fa0
