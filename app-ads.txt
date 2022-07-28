@@ -1,4 +1,5 @@
 facebook.com, 347132863080055, RESELLER, c3e20eee3f780d68
+facebook.com, 769631714230966, RESELLER, c3e20eee3f780d68
 facebook.com, 607040160840031, RESELLER, c3e20eee3f780d68
 
 ## Updated at: 2021-11-17
