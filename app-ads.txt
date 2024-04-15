@@ -1,3 +1,9 @@
+facebook.com, 1115611219659845, RESELLER, c3e20eee3f780d68
+facebook.com, 396463549876406, RESELLER, c3e20eee3f780d68
+facebook.com, 1790920681406137, RESELLER, c3e20eee3f780d68
+facebook.com, 953068873193642, RESELLER, c3e20eee3f780d68
+facebook.com, 949748966593039, RESELLER, c3e20eee3f780d68
+
 ## AdsTxtSite app-ads.txt - Updated at: 2023-12-22
 
 sharethrough.com, Uc8GWHvM, DIRECT, d53b998a7bd4ecd2
